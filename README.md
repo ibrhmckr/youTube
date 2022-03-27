@@ -1,3 +1,3 @@
 # youTube
 
-Projects that I have complated by following a youtuber.
+Projects that I have completed by following a youtuber.
